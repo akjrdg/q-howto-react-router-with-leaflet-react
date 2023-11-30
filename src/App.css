@@ -1,0 +1,35 @@
+#root {
+  min-width: 100%;
+  min-height:100%;
+  height:auto;
+}
+
+#place-map{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#place-list{
+  position: absolute;
+  top: 300px;
+  width: 100%;
+  height: 100%;
+}
+
+#place-bound{
+  position: absolute;
+  top: 400px;
+  width: 100%;
+  height: 100%;
+}
+#place-store{
+  position: absolute;
+  top: 450px;
+  width: 100%;
+  height: 100%;
+}
+.leaflet-container{
+  height: 300px;
+}
